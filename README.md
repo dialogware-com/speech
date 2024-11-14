@@ -96,7 +96,7 @@ Where humanity's conversation never ends!"
 
 
 
-## Vision system
+## Vision system - Dialogstream
 
 ---
 

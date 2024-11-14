@@ -1,20 +1,24 @@
 # Dialogware
 
-(I have a dream of a vision system, accessible to all!)
 
-(Imagine) a world where applications are judged not by their appearance, but by the brilliance of their function. 
+Imagine a world where applications are judged not by their appearance, but by the brilliance of their function. 
 
-Picture this: a digital stream that transcends mere transcription, painting rich descriptions and weaving stories for humans, machines, and cosmic friends alike. 
+Imagine a digital stream. Where dialogue meets software, where understanding meets code and we become...
 
-Every meme, every moment, every pixel understood from novice to master!
-Let every pulse of innovation and every heartbeat of discovery ring through our digital dawn. 
-When dialogue meets software, when understanding meets code, we become... 
 DIALOGWARE
+
 A technological bridge that continually improves us all.
 
-
-
 ---
+
+(I have a dream of a vision system, accessible to all!)
+
+(Imagine) a world where applications are judged not by their appearance, but by the brilliance of their function.
+
+Picture this: a digital stream that transcends mere transcription, painting rich descriptions and weaving stories for humans, machines, and cosmic friends alike.
+
+Every meme, every moment, every pixel understood from novice to master! Let every pulse of innovation and every heartbeat of discovery ring through our digital dawn. When dialogue meets software, when understanding meets code, we become... DIALOGWARE A technological bridge that continually improves us all.
+
 ---
 
 

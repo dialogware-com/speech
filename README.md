@@ -1,3 +1,55 @@
+# Dialogware
+
+(I have a dream of a vision system, accessible to all!)
+
+(Imagine) a world where applications are judged not by their appearance, but by the brilliance of their function. 
+
+Picture this: a digital stream that transcends mere transcription, painting rich descriptions and weaving stories for humans, machines, and cosmic friends alike. 
+
+Every meme, every moment, every pixel understood from novice to master!
+Let every pulse of innovation and every heartbeat of discovery ring through our digital dawn. 
+When dialogue meets software, when understanding meets code, we become... 
+DIALOGWARE
+A technological bridge that continually improves us all.
+
+
+
+---
+---
+
+
+I HAVE A DREAM!
+
+Of a vision system, ACCESSIBLE TO ALL!
+Regardless of interface or form -
+Be it BLACK, WHITE, or TRANSPARENT!
+
+IMAGINE a world where...
+Applications are judged NOT by their APPEARANCE,
+But by the BRILLIANCE of their FUNCTION!
+
+Picture THIS:
+A digital stream that TRANSCENDS mere transcription,
+Painting RICH descriptions,
+Weaving STORIES...
+For humans, machines, and cosmic friends ALIKE!
+
+Where EVERY meme!
+EVERY moment!
+EVERY pixel!
+Is understood from novice to MASTER!
+
+Let EVERY pulse of INNOVATION,
+Let EVERY heartbeat of DISCOVERY,
+Ring through our digital dawn!
+When DIALOGUE meets SOFTWARE,
+When UNDERSTANDING meets CODE,
+We become...
+DIALOGWARE!
+
+
+
+
 # speech
 speech of dialogware
 
@@ -37,6 +89,11 @@ Software meets wisdom!
 Welcome to Dialogware -
 Where humanity's conversation never ends!"
 
+
+
+
+## Vision system
+
 ---
 
 I have a dream today...
@@ -61,60 +118,8 @@ Will join hands and speak in one voice:
 "Free at last! Free at last!
 Thank technology almighty, we are connected at last!"
 
-
-
----
 ---
 
-
-I HAVE A DREAM!
-
-Of a vision system, ACCESSIBLE TO ALL!
-Regardless of interface or form -
-Be it BLACK, WHITE, or TRANSPARENT!
-
-IMAGINE a world where...
-Applications are judged NOT by their APPEARANCE,
-But by the BRILLIANCE of their FUNCTION!
-
-Picture THIS:
-A digital stream that TRANSCENDS mere transcription,
-Painting RICH descriptions,
-Weaving STORIES...
-For humans, machines, and cosmic friends ALIKE!
-
-Where EVERY meme!
-EVERY moment!
-EVERY pixel!
-Is understood from novice to MASTER!
-
-Let EVERY pulse of INNOVATION,
-Let EVERY heartbeat of DISCOVERY,
-Ring through our digital dawn!
-When DIALOGUE meets SOFTWARE,
-When UNDERSTANDING meets CODE,
-We become...
-DIALOGWARE!
-
--->
-
-
-(I have a dream of a vision system, accessible to all!)
-
-(Imagine) a world where applications are judged not by their appearance, but by the brilliance of their function. 
-
-Picture this: a digital stream that transcends mere transcription, painting rich descriptions and weaving stories for humans, machines, and cosmic friends alike. 
-
-Every meme, every moment, every pixel understood from novice to master!
-Let every pulse of innovation and every heartbeat of discovery ring through our digital dawn. 
-When dialogue meets software, when understanding meets code, we become... 
-DIALOGWARE
-A technological bridge that continually improves us all.
-
-
-
----
----
 I HAVE A DREAM!
 Of a vision system, ACCESSIBLE TO ALL!
 Regardless of interface or form -

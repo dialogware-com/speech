@@ -99,9 +99,9 @@ DIALOGWARE!
 -->
 
 
-I have a dream of a vision system, accessible to all!
+(I have a dream of a vision system, accessible to all!)
 
-Imagine a world where applications are judged not by their appearance, but by the brilliance of their function. 
+(Imagine) a world where applications are judged not by their appearance, but by the brilliance of their function. 
 
 Picture this: a digital stream that transcends mere transcription, painting rich descriptions and weaving stories for humans, machines, and cosmic friends alike. 
 

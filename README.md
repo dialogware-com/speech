@@ -5,9 +5,11 @@ Imagine a world where applications are judged not by their appearance, but by th
 
 Imagine a digital stream. Where dialogue meets software, where understanding meets code and we become...
 
-DIALOGWARE
+DIALOGWARE 
 
 A technological bridge that continually improves us all.
+
+When dialogue meets software, when understanding meets code, we become... #DIALOGWARE #texttosoftware solution made by Softreck
 
 ---
 

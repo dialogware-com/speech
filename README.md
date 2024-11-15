@@ -9,7 +9,12 @@ DIALOGWARE
 
 A technological bridge that continually improves us all.
 
-When dialogue meets software, when understanding meets code, we become... #DIALOGWARE #texttosoftware solution made by Softreck
+#texttosoftware solution made by Softreck
+
+---
+
+DIALOGWARE - a technological bridge that continually improves us all.
+When dialogue meets software, when understanding meets code, we become... hashtag#DIALOGWARE hashtag#texttosoftware solution made by Softreck
 
 ---
 
